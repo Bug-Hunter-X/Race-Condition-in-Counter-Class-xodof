@@ -1,0 +1,1 @@
+This repository demonstrates a race condition bug in a simple Java counter class. Two threads concurrently increment a shared counter, leading to an inconsistent final count. The solution demonstrates how to fix this issue using proper synchronization mechanisms.
